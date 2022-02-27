@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Doctor Lambs darling: or, strange and terrible news from Salisbury; being a true, exact, and perfect relation, of the great and wonderful contract and engagement made between the devil, and Mistris Anne Bodenham; with the manner how she could transform her self into the shape of a mastive dog, a black lyon, a white bear, a woolf, a bull, and an cat; and by her charms and spels, send either man or woman 40 miles an hour in the ayr. The tryal, examination, and confession of the said mistris Bodenham, before the Lord chief Baron Wild, &amp; the sentence of death pronounc'd against her, for bewitching of An Stiles, and forcing her to write her name in the devils book with her own blood; so that sometimes the devil appearing all in black without a head, renting her cloaths, tearing her skin, and tossing her up and down the chamber, to the great astonishment of the spectators. Appointed to be printed and published, as a caveat and warning piece for England, Scotland, and Ireland. James Bower, Cleric.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81584</idno>
+            <idno type="STC">Wing D1763</idno>
+            <idno type="STC">Thomason E707_2</idno>
+            <idno type="STC">ESTC R207118</idno>
+            <idno type="EEBO-CITATION">99866189</idno>
+            <idno type="PROQUEST">99866189</idno>
+            <idno type="VID">166630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166630)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E707[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Doctor Lambs darling: or, strange and terrible news from Salisbury; being a true, exact, and perfect relation, of the great and wonderful contract and engagement made between the devil, and Mistris Anne Bodenham; with the manner how she could transform her self into the shape of a mastive dog, a black lyon, a white bear, a woolf, a bull, and an cat; and by her charms and spels, send either man or woman 40 miles an hour in the ayr. The tryal, examination, and confession of the said mistris Bodenham, before the Lord chief Baron Wild, &amp; the sentence of death pronounc'd against her, for bewitching of An Stiles, and forcing her to write her name in the devils book with her own blood; so that sometimes the devil appearing all in black without a head, renting her cloaths, tearing her skin, and tossing her up and down the chamber, to the great astonishment of the spectators. Appointed to be printed and published, as a caveat and warning piece for England, Scotland, and Ireland. James Bower, Cleric.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Witchcraft) --  England --  Salisbury --  Early works to 1800.</term>
+               <term>Witchcraft --  England --  Salisbury --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166630:1" rendition="simple:additions"/>
+            <p>Doctor LAMBS DARLING: OR, Strange and terrible News from Salisbury; <hi>BEING</hi> A true, exact, and perfect Relation, of the great and wonderful <hi>Contract</hi> and <hi>Engagement</hi> made be<g ref="char:EOLhyphen"/>tween the Devil, and Miſtris <hi>Anne Bodenham;</hi> with the manner how ſhe could transform her ſelf into the <hi>ſhape</hi> of <hi>a Maſtive Dog, a black Lyon, a white Bear, a Woolf, a Eull, and a Cat;</hi> and by her Charms and Spels, ſend either man or woman 40 miles an hour in the Ayr. The Tryal, Examination, and Confeſſion of the ſaid Miſtris <hi>Boden<g ref="char:EOLhyphen"/>ham,</hi> before the Lord chief Baron Wild, &amp; the Sentence of Death pronounc'd againſt her, for bewitching of <hi>An Stiles,</hi> and forcing her to write her Name in the Devils <hi>Book</hi> with her own <hi>blood;</hi> ſo that for five dayes ſhe lay in cruel and bitter Torments; ſomtimes the Devil ap<g ref="char:EOLhyphen"/>pearing all in black without a head, renting her cloaths, tearing her ſkin, and toſſing her up and down the <hi>cham<g ref="char:EOLhyphen"/>ber,</hi> to the great aſtoniſhment of the Spectators.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>APpointed to be printed and publiſhed, as a Caveat and War<g ref="char:EOLhyphen"/>ning piece for <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <add>July 25</add>
+                              </date>
+                           </dateline> 
+                           <signed>
+                              <hi>James Bower,</hi> Cleric.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166630:2"/>
+            <pb n="3" facs="tcp:166630:2"/>
+            <p>
+               <seg rend="decorInit">H</seg>Iſtory often ſpeaks, and common obſervation aſſures Us, that Bees gather exeellent honey out of the bittereſt herbs: So, were we wiſe, we might make good uſe of this enſuing Re<g ref="char:EOLhyphen"/>lation: Wherein we may conſider how the Devil guls and deceives the ſoules of the ſons of men, He (without doubt) to bring them into ſuch an unhappy league with himſelf, promiſeth them to be no Inferiors to the greateſt in the world. But to the ſubject of my Diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>There was lately arraigned at <hi>Salisbury,</hi> before the <hi>Right Honorable</hi> the Lord chief Baron <hi>Wild,</hi> Judge of the Aſſiſe, one <hi>Anne Bodenham,</hi> formerly ſervant to Dr. <hi>Lamb,</hi> for her ſtrange and wonderful Diabolical uſage of a Maid, ſervant to M. <hi>Goddard,</hi> by name <hi>Anne Styles;</hi> who having loſt a ſilver ſpoon, went to the foreſaid Witch, to diſcover the perſon that had ſtoln it; whereupon this <hi>cunning woman</hi> put on her ſpectacles, demanded 12 <abbr>
+                  <hi>d.</hi>
+               </abbr> which ſhe had, and then o<g ref="char:EOLhyphen"/>pened a book, in which there ſeemed to be the picture of the Devil, to the Maids appearance, <hi>with cloven feet and claws;</hi> after which, the Witch took a green Glaſs, and ſhewed the maid the ſhape of many perſons what they were doing in her Maſters houſe, and ſaid, that the ſpoon ſhould be brought again ſhortly by a little boy; but ſaid, ſhe would have occaſion to come to her again very ſud<g ref="char:EOLhyphen"/>denly;
+<pb n="4" facs="tcp:166630:3"/>and accordingly, within two dayes after, her Miſtris being afraid of being poyſon'd, ſent the Maid again to the ſaid Witch, to know if there were any ſuch thing intend<g ref="char:EOLhyphen"/>ed, and the maid going, a little black Dog, to her appre<g ref="char:EOLhyphen"/>henſion ran before her over <hi>Crane-bridge,</hi> and brought her to the Witches houſe, being dark, where the doors flew o<g ref="char:EOLhyphen"/>pen, without knocking, and the Witch met her at the ſe<g ref="char:EOLhyphen"/>cond door, and told her ſhe knew wherefore ſhe came, and that it was about poyſoning; for, ſaid ſhe, on Friday night there ſhall be a cup of ſpiced Ale prepared, with poyſon in it; but be ſure you give your Miſtris notice of it. The next day being Saturday the maid was ſent again to the Witch to get ſome example ſhewn upon the Gentlewoman that ſhould procure the poyſon; and the Witch gave her a powder, Dill leaves, and the paring of her own nailes; all which the maid was to give to her Miſtris; the powder was to be put in the young Gentlewomens Miſtriſs <hi>Sarah</hi> and Miſtriſs <hi>Anne Goddards</hi> drink or broth, to rot their guts in their bellies; the leaves to rub about the brims of the pot, to make their teeth fall out of their heads, and the paring of the nails to make them drunk and mad. And told the maid that when they gave it them, they muſt cros their breaſts, and ſay, <hi>In the name of our Lord Jeſus Christ grant that this may be.</hi> But the maid coming again on the Munday following, asked her whether ſhe approved of her journey for <hi>London;</hi> the Witch replied, <hi>Wilt thou go to London high or low?</hi> To which the maid anſwered, <hi>What do you mean by that?</hi> She ſaid, <hi>If you will go on high, you ſhall be carryed to London in the Air, and be there in two h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urs; but if you go a low, you ſhall be taken at Sutton towns end.</hi> Yet be<g ref="char:EOLhyphen"/>fore ſhe departed, the Witch deſired the maid to live with her, and ſhe would teach her a more ſtranger Art: What's that, ſaid the maid, ſhe anſwered, you ſhall know preſent<g ref="char:EOLhyphen"/>ly,
+<pb n="5" facs="tcp:166630:3"/>and forthwith ſhe appeared in the ſhape of a great black Cat, and lay along by the Chimney: at which the maid being affrighted, ſhe came into her ſhape again, ſay<g ref="char:EOLhyphen"/>ing, <hi>But before you go, you muſt ſeal unto me your body and bl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ud not to diſcover me;</hi> which ſhe promiſing to do, ſhe forth<g ref="char:EOLhyphen"/>with made a Circle, and called <hi>Beezebub, Tormentor, Luci<g ref="char:EOLhyphen"/>fer,</hi> and <hi>Satan,</hi> appear; then appeared two ſpirits in the likeneſs of great boys, with long ſhagged black hair, and ſtood by her, looking over her ſhoulder; then the Witch took the meids fore-ſinger of her right hand, and pricked it with a pin, and ſqueezed out the bloud, and put it into a pen, and put the pen into the maids hand, and held her hand to write in a book, and one of the Spirits laid his hand or claw upon the Witches, whileſt the maid wrote, and when ſhe had done writing whileſt their hands were together, the Witch ſaid <hi>Amen,</hi> and made the maid ſay <hi>Amen,</hi> and the Spirits ſaid, <hi>Amen, Amen;</hi> and the Spirits hand did feel cold to the maid as it touched her hand, when the Witches hand and hers were together writing; and then the Spirit gave a piece of ſilver (which he firſt bit) to the Witch, who gave it to the maid, and alſo ſtuck two pins in the maides head-cloathes, and bid her keep them, and be gone, ſaying, <hi>I will now vex thee far worſe, then ever I did the man in Clarington Park, which I made walk a<g ref="char:EOLhyphen"/>bout with a bundle of pales on his back all night in a Pond of wa<g ref="char:EOLhyphen"/>ter, and could not lay them down till the next morning.</hi> Thus having ended her diabolical ſpeech, immediatly after the maid were exceedingly perplexed with inward Tor<g ref="char:EOLhyphen"/>ments, crying out, <hi>O the Devil, the Witch, and the two ragged boyes are pulling me a pieces!</hi> Oh very damnable, very wretched: this hand of mine writ my name in the Devils book; this finger of mine was pricked, here is yet the hole that was made; and with my bloud I wrote my own
+<pb n="6" facs="tcp:166630:4"/>Damnation, and have cut my ſelf off from Heaven and Eternal life; the Devil came, oh! in a terrible ſhape to me, entred within me, &amp; there he lies ſwelling in my bo<g ref="char:EOLhyphen"/>dy, gnawing at my heart, tearing my bowels within me, and there is no hopes, but one time or other will tear me all in pieces; O hold me, hold me, or elſe the Devil will t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke me: I ſee him now ſtanding on the top of the houſe, with glittering eyes, looking on me, and will carry me away. Thus was ſhe miſerably tormented, for the ſpace of five dayes, many times being pulled from thoſe that held her, which made the people in the Room run away from her for fear; the maid being thrown from the low bed whereon ſhe lay, to the top of the high bed, and her cloathes torn off her back, and a piece of her ſkin torn a<g ref="char:EOLhyphen"/>way, the Candle in the Room, ſtanding on a Table, was thrown down, and put out; at which time, there being a little boy that was almoſt aſleep, but with this noiſe be<g ref="char:EOLhyphen"/>ing frighted, had not power with the reſt, to go out of the room, ſtaid there, and ſaw a ſpirit in the likeneſs of a great black man, with no head, in the room ſouffling with the maid, and took her and ſet her into a chair, and told her ſhe muſt go with him, he was come for her ſoul, ſhe had given it to him: But the maid anſwered, <hi>that her ſoul was none of her own to give, it belonged to her Lord and Savior Jeſus Chriſt, who had purchaſed it with his own precious blood; and although he had got her blood, yet he ſhould never have her ſoul:</hi> Whereupon after tumbling and throwing the maid about the Devil vaniſhed in a flame of fire. After many ſuch like cruel Torments, ſometimes lying in a trance; ſometimes foaming at the mouth; and ſometimes being toſſed from the lower bed to the high bed; and from thence to the top of the <hi>Teſter;</hi> yet at laſt (when news was brought that the Witch was executed) it pleaſed the Divine providence
+<pb n="7" facs="tcp:166630:4"/>of the great Jehovah of Heaven, to reſtore her to her for<g ref="char:EOLhyphen"/>mer ſtate and condition, crying out, <hi>Oh what a loving God have I to break me off with this league from the Devil! Oh what a ſweet Saviour have I that hath ranſom'd my poor ſoul from the infernal Lake, &amp; brought me even from the very brinks of Hell: Bleſſed be his name; he hath wrought my deliverance, and diſpoſſeſſed the evil ſpirit.</hi> Many other ſtrange and diabo<g ref="char:EOLhyphen"/>lical actions, the foreſaid Witch both practiſed and put in execution; namely, by her ſeveral Charms and Spels, ſhe would convey either man or woman 40 miles an hour in the Air, ſhe was one that would undertake to cure almoſt any Diſeaſes by the ſaid Charms, but ſomtimes uſed phy<g ref="char:EOLhyphen"/>ſical ingredients, to cure her abominable practices; ſhe would undertake to procure things that were loſt, and reſtore goods that were ſtoln; ſhe could transform her ſelf into any ſhape whatſoever, <hi>viz.</hi>
+               <list>
+                  <item>A Maſtive Dog,</item>
+                  <item>A black Lyon,</item>
+                  <item>A white Bear,</item>
+                  <item>A Woolf,</item>
+                  <item>A Monkey,</item>
+                  <item>A Horſe,</item>
+                  <item>A Bull,</item>
+                  <item>And a Calf.</item>
+               </list>
+            </p>
+            <p>She had likewiſe the marks of an abſolute Witch, ha<g ref="char:EOLhyphen"/>ving a Teat about the length and bigneſſe of the Nipple of a womans breaſt, and hollow and ſoft as a Nipple, with a hole on the top of it, on her left ſhoulder, and another
+<pb n="8" facs="tcp:166630:5"/>likewiſe was found in her ſecret place, like the former on her ſhoulder, which was given in to the Court upon evidence by
+<list>
+                  <item>Molier Damely,</item>
+                  <item>Alice Cleverly,</item>
+                  <item>Grace Stokes,</item>
+               </list> for which, ſhe was arraigned and condemned to be hang'd; no ſooner was ſentence denounced, but ſhe ſkriek'd out with a moſt hideous noiſe, and deſired to be buryed under the Gallows and coming to the place of execution, ſhe ran up the ladder, and the rope being put about her neck, ſhe went to turn her ſelf off; but the Executioner ſtaid her, and deſired her to forgive him: ſhe replyed, <hi>Forgive thee! A pox on thee, turn me off;</hi> which were the laſt words ſhe ſaid. Thus, dear hearts, you ſee, thoſe that forſake God in their lives, ſhall be forſaken of him in their deaths.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
